@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/Nileshkotwad007" alt="NileshKotwad007" /></a> </p>
 
-//<p align="left"> <a href="https://twitter.com/Nilesh" target="blank"><img src="https://img.shields.io/twitter/follow/santoshmakane?logo=twitter&style=for-the-badge" alt="Nilesh Kotwad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Nilesh" target="blank"><img src="https://img.shields.io/twitter/follow/santoshmakane?logo=twitter&style=for-the-badge" alt="Nilesh Kotwad" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Android Development**
 
